@@ -1,6 +1,6 @@
 # Sistema de Gestión de Datos para el Metro de la Ciudad de México
 
-![imagen_metro](URL_de_la_imagen)
+![imagen_metro](https://github.com/ChristianLaurean/Sistema-de-Gestion-Metro-CDMX/blob/main/img/metro-cdmx.jpg)
 
 Este proyecto es un sistema de gestión de datos desarrollado para el metro de la Ciudad de México. Proporciona una estructura eficiente para almacenar y administrar información relacionada con estaciones, trenes, conductores y otros elementos clave del sistema de transporte.
 
@@ -8,13 +8,13 @@ Este proyecto es un sistema de gestión de datos desarrollado para el metro de l
 
 ### Diagrama Conceptual Entidad-Relación
 
-![Diagrama_Conceptual](URL_de_la_imagen)
+![Diagrama_Conceptual](https://github.com/ChristianLaurean/Sistema-de-Gestion-Metro-CDMX/blob/main/img/Diagrama_conceptual.png)
 
 Este diagrama muestra las entidades clave del sistema y las relaciones entre ellas. Proporciona una vista de alto nivel de la estructura de la base de datos.
 
 ### Diagrama Físico Detallado
 
-![Diagrama_Físico](URL_de_la_imagen)
+![Diagrama_Físico](https://github.com/ChristianLaurean/Sistema-de-Gestion-Metro-CDMX/blob/main/img/Diagrama_fisico.png)
 
 El diagrama físico detallado refleja la implementación real de la base de datos, incluyendo tablas, columnas, tipos de datos y relaciones específicas.
 
